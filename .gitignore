@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Distribution & build outputs
+dist/
+build/
+*.egg-info/
+
+# Pytest / Test outputs
+.pytest_cache/
+
+# Sample outputs generated locally
+output_report.json
